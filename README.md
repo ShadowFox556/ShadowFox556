@@ -49,12 +49,10 @@
 
 <h3>GitHub Stats & Code Cycle</h3>
 
-<div align="center">
-  <a href="https://github.com/ShadowFox556">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShadowFox556&show_icons=true&theme=nord&count_private=true" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowFox556&layout=compact&theme=nord" width="49%" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShadowFox556&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShadowFox556&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
 
 <details>
   <summary>More stats</summary>
