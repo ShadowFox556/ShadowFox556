@@ -1,6 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my GitHub page! <br/> I'm <b>Fares Alkahwaji</b>, a passionate programmer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/320px-Flag_of_Jordan.svg.png" width="13"/> <b>Jordan</b>, currently exploring web development and software programming.</p>
+<p>
+  Welcome to my GitHub page! <br/>
+  I'm <b>Fares Alkahwaji</b>, a passionate programmer from 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/320px-Flag_of_Jordan.svg.png" width="30" style="border-radius:50%;" /> 
+  <b>Jordan</b>, currently exploring web development and software programming.
+</p>
 
 <h3>Things I code with</h3>
 <p>
