@@ -50,15 +50,15 @@
 <h3>GitHub Stats & Code Cycle</h3>
 
 <div align="center">
-  <a href="https://github.com/fares-alkahwaji">
-    <img src="https://github-readme-stats.vercel.app/api?username=fares-alkahwaji&show_icons=true&theme=nord&count_private=true" width="49%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fares-alkahwaji&layout=compact&theme=nord" width="49%" />
+  <a href="https://github.com/ShadowFox556">
+    <img src="https://github-readme-stats.vercel.app/api?username=ShadowFox556&show_icons=true&theme=nord&count_private=true" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowFox556&layout=compact&theme=nord" width="49%" />
   </a>
 </div>
 
 <details>
   <summary>More stats</summary>
-  <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+  <img align="center" src="https://raw.githubusercontent.com/ShadowFox556/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 </details>
   
 <hr/>
